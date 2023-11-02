@@ -21,3 +21,6 @@ Add two buttons with vector icons.
 Call appropriate method of mainactivity after pressing buttons of toolbar.
 
 ![image](https://github.com/Chintan0484/MAD_practical11_21012011002/assets/98694412/ae41fe16-7734-461d-80b9-a65e373d914e)
+
+![image](https://github.com/Chintan0484/MAD_practical11_21012011002/assets/98694412/daacbaea-5e4b-4d42-a9c7-f201e5d42d9f)
+
