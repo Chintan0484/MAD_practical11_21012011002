@@ -24,3 +24,8 @@ Call appropriate method of mainactivity after pressing buttons of toolbar.
 
 ![image](https://github.com/Chintan0484/MAD_practical11_21012011002/assets/98694412/daacbaea-5e4b-4d42-a9c7-f201e5d42d9f)
 
+![image](https://github.com/Chintan0484/MAD_practical11_21012011002/assets/98694412/5773f7f9-aca5-46be-816b-9897e66c799a)
+
+![image](https://github.com/Chintan0484/MAD_practical11_21012011002/assets/98694412/438a629d-fed7-4dd5-bad4-46ed43b6a42a)
+
+![image](https://github.com/Chintan0484/MAD_practical11_21012011002/assets/98694412/9a4d631c-59df-4b6b-8912-e277508bf188)
